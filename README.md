@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
-<h1> <span>Merhaba, ben Baran. </span></h1>
-<h4> <span>Kendini yetiştiren bir yazılım geliştiriciyim, ve şu anda Acunmedya Akademi'de Backend Developer Kursu öğrencisiyim. Kodlamaya ve teknolojiye karşı büyük bir tutkum var. Sürekli öğrenmeye ve yenilikçi projelere katkıda bulunmaya kararlıyım.</span></h4>
+<h1> <span>Merhaba,</span> ben Baran. </h1>
+<h4> <span>Kendini yetiştiren bir yazılım </span>geliştiriciyim,<span> ve şu anda Acunmedya Akademi'de Backend Developer Kursu öğrencisiyim. Kodlamaya ve teknolojiye karşı büyük bir tutkum var. Sürekli öğrenmeye ve yenilikçi projelere katkıda bulunmaya kararlıyım.</span></h4>
 
 </div>
 
