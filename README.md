@@ -1,5 +1,5 @@
 ﻿<div align="center">
-<h1 align="center">Merhaba, ben Baran. <img width="35" src="https://github.com/Trustedev/Trustedev/blob/main/resources/waving.gif"></h1>
+<h1 align="center">Merhaba, ben Baran.</h1>
 <h4 align="center">Kendini yetiştiren bir yazılım geliştiriciyim, ve şu anda Acunmedya Akademi'de Backend Developer Kursu öğrencisiyim. Kodlamaya ve teknolojiye karşı büyük bir tutkum var. Sürekli öğrenmeye ve yenilikçi projelere katkıda bulunmaya kararlıyım.
 </div>
 
