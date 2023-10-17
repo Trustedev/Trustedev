@@ -1,44 +1,26 @@
-﻿<div align="center">
+Merhaba, ben Baran.
 
-<h1> <span>Merhaba,</span> ben Baran. </h1>
-<h4> <span>Kendini yetiştiren bir yazılım </span>geliştiriciyim,<span> ve şu anda Acunmedya Akademi'de Backend Developer Kursu öğrencisiyim. Kodlamaya ve teknolojiye karşı büyük bir tutkum var. Sürekli öğrenmeye ve yenilikçi projelere katkıda bulunmaya kararlıyım.</span></h4>
+Kendini yetiştiren bir yazılım geliştiriciyim, ve şu anda Acunmedya Akademi'de Backend Developer Kursu öğrencisiyim. Kodlamaya ve teknolojiye karşı büyük bir tutkum var. Sürekli öğrenmeye ve yenilikçi projelere katkıda bulunmaya kararlıyım.
 
-</div>
-
-  
-<div align="center">
-
-  <a href="http://baranuygur.com/">
-  <img  src="https://github.com/Trustedev/Trustedev/blob/main/resources/grid-snake.svg" alt="snake" />
-</a>
-  
-</div>
+[<img src="https://github.com/Trustedev/Trustedev/blob/main/resources/grid-snake.svg" alt="snake"/>](http://baranuygur.com/)
 
 -----
+
 <details>
   <summary>☎️ İletişim</summary>
-<div>ß
-  <samp>
-    <h2 align="center">bağlantılar:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/baranuygur/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="baran" height="30"/></a>
-      <a href="mailto:baranuygur@protonmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="baran" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/baran.uyg" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="baran" height="30"/></a>
-      <a href="https://wa.me/+905393660592" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="baran" height="30"/></a>     
-      <br>
-    </p>
-  </samp>
-</div>
+  <div>
+    <samp>
+      <h2 align="center">Bağlantılar:</h2>
+      <p align="center">
+        <br/>
+        [<img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="baran" height="30"/>](https://www.linkedin.com/in/baranuygur/)
+        [<img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="baran" height="30"/>](mailto:baranuygur@protonmail.com)
+      </p>
+      <p align="center">
+        [<img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="baran" height="30"/>](https://instagram.com/baran.uyg)
+        [<img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="baran" height="30"/>](https://wa.me/+905393660592)
+        <br>
+      </p>
+    </samp>
+  </div>
 </details>
-
