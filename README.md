@@ -1,16 +1,16 @@
 ﻿<div align="center">
-  <span>
-<h1> Merhaba, ben Baran.</h1>
-<h4> Kendini yetiştiren bir yazılım geliştiriciyim, ve şu anda Acunmedya Akademi'de Backend Developer Kursu öğrencisiyim. Kodlamaya ve teknolojiye karşı büyük bir tutkum var. Sürekli öğrenmeye ve yenilikçi projelere katkıda bulunmaya kararlıyım.</h4>
-  </span>
+
+<h1> <span>Merhaba, ben Baran. </span></h1>
+<h4> <span>Kendini yetiştiren bir yazılım geliştiriciyim, ve şu anda Acunmedya Akademi'de Backend Developer Kursu öğrencisiyim. Kodlamaya ve teknolojiye karşı büyük bir tutkum var. Sürekli öğrenmeye ve yenilikçi projelere katkıda bulunmaya kararlıyım.</span></h4>
+
 </div>
 
   
 <div align="center">
 
   <a href="http://baranuygur.com/">
-  <img  src="https://github.com/Trustedev/Trustedev/blob/main/resources/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/Trustedev/Trustedev/blob/main/resources/grid-snake.svg" alt="snake" />
+</a>
   
 </div>
 
